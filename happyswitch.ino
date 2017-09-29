@@ -76,7 +76,7 @@ uint8_t midiByte;
 
 uint8_t lock;
 
-uint8_t config = B00101010;	// Safe config CH1 on, SOLO off, FX off
+uint8_t config = B00101010;	// Safe config: CH1 on, SOLO off, FX off
 
 #if DEBUG == 1
 	uint8_t raw_debug = RAW_DEBUG;
