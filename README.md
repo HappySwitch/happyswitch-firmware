@@ -10,3 +10,5 @@ With HappySwitch you can control your midiless guitar or bass amp through any MI
 HappySwitch receives the MIDI Program Change messages and applies the stored config to your amp.
 
 This prototype was expecially developed to work with MESA/Boogie® Dual & Triple Rectifier™ which have a proprietary footswitch interface (7 DIN) but, you can hack it to control every amp with a standard footswitch 1/4" jack interfaces.
+
+If you enjoy it, please leave a tip (Bitcoin): 1G26HGi9wrFPSGkDGcw7Y9cbAgZ51t5cwR
