@@ -1,7 +1,7 @@
 # HappySwitch
 Open Source MIDI Amp Controller
 
-http://happyswitch.it/
+https://happyswitch.github.io/
 
 ## HappySwitch gives a MIDI input to your legacy guitar or bass amp
 
