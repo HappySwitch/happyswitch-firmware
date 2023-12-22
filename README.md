@@ -12,3 +12,5 @@ HappySwitch receives the MIDI Program Change messages and applies the stored con
 This prototype was expecially developed to work with MESA/Boogie® Dual & Triple Rectifier™ which have a proprietary footswitch interface (7 DIN) but, you can hack it to control every amp with a standard footswitch 1/4" jack interfaces.
 
 If you enjoy it, please leave a tip (Bitcoin): 1G26HGi9wrFPSGkDGcw7Y9cbAgZ51t5cwR
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F3SGS48)
